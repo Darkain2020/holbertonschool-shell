@@ -1,2 +1,2 @@
 #!/bin/bash
-ch betty
+chown betty u/
